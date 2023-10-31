@@ -27,7 +27,7 @@ dependencies {
 
     // lombok
     compileOnly 'org.projectlombok:lombok'
-    annotationProcessor 'org.projectlombok:lombok'
+    annotationProcessor 'org.projectlombok:lombok'  // 위에 configurations에 추가
 
 
     implementation 'org.springframework.boot:spring-boot-starter'
